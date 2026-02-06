@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.env
+
+# Data
+data/
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LLM outputs / artifacts
+artifacts/
